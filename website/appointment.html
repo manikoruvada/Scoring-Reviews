@@ -1,0 +1,84 @@
+<!Doctype html>
+<html>
+	<head>
+	     <link rel="stylesheet" type="text/css"  href="Registration.css">
+	</head>
+    <body>
+		  <center>
+			   <fieldset>
+				   <legend> <h5>Make an Appointment</h5></legend>
+                  <form method="POST" action="doctorappointment.php">
+                         <table  cellpadding="10">
+		                <tr>
+                             <th>username</th>
+                             <td>
+                                 <input type="text" name="patientname" placeholder="enter name">
+                            </td>
+                        </tr>
+                        <tr>
+                            <th>Problem Description</th>
+                            <td>
+							    <textarea rows="5" cols="8" name="problem"></textarea>
+                            </td>
+                        </tr>
+                        <tr>
+                           <th>Doctor</th>
+                           <td>
+							   <select name="doctor">
+								   <option name="">select</option>
+								   <option name="doctor1">Vijaya Lakshmi</option>
+								   <option name="doctor1">Anjali</option>
+								   <option name="doctor1">Srinivas</option>
+								   <option name="doctor1">Gopala Krishna</option>
+								   <option name="doctor1">Gowtam</option>
+								   
+							   </select>
+                            
+                           </td>
+                      <tr>
+				      <tr>
+				           <th>Time</th>
+				           <td>
+				                <select name="time">
+								   <option name="">select</option>
+								   <option name="a">8.00AM</option>
+								   <option name="time1">9.00AM</option>
+								   <option name="time2">10.00AM</option>
+								   <option name="time3">11.00AM</option>
+								   <option name="time4">12.00PM</option>
+								   <option name="time5">1.00PM</option>
+								   <option name="time6">2.00PM</option>
+								   <option name="time7">3.00PM</option>
+								   <option name="time8">4.00PM</option>
+								   <option name="time9">5.00PM</option>
+								   <option name="time10">6.00PM</option>
+								   <option name="time11">7.00PM</option>
+								   <option name="time12">8.00PM</option>
+								   <option name="time13">9.00PM</option>
+								   <option name="time14">10.00PM</option>
+					
+							   </select>
+				            </td>
+				      </tr>
+				      <tr>
+				             <th>Date</th>
+				             <td>
+				                    <input type="date" name="date" id="date" placeholder="yyyy-mm-dd">
+				             </td>
+				      </tr>
+				      <tr>
+				             <td colspan="2" >
+								  
+				                    <input type="submit" value="submit">
+				             </td>
+				      </tr>
+				       <tr>
+				             <td colspan="2" >
+								  
+				                    <a href="user_view.php" target="">Appointment Status </a>
+				             </td>
+				      </tr>
+               </table>
+          </form>
+    </body>
+</html>

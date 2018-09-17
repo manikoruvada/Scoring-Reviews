@@ -1,0 +1,32 @@
+#name{
+color:red;
+font-size:30px;
+margin-top:20px;
+}
+#nut{
+color:green;
+font-size:20px;
+}
+#did{
+color:blue;
+font-size:20px;
+}
+#dis{
+color:magenta;
+font-size:20px;
+}
+#header
+{
+text-align:center;
+background-color:#6A5ADC;
+color:white;
+font-size:25px;
+}
+#footer{
+          text-align:center;
+          margin-top:-2%;
+          background-color:#6A5ADC;
+          color:white;
+          }
+
+

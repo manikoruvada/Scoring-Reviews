@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+    overflow: hidden;
+    background-color: #000000;
+    font-family: Arial;
+}
+
+.container a {
+    float: right;
+    font-size: 16px;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 16px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 14px 16px;
+    background-color: inherit;
+}
+
+.container a:hover, .dropdown:hover .dropbtn {
+    background-color: green;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: aqua;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+body{
+	background-color:black;
+}
+</style>
+</head>
+<body>
+        <img src="assets/health.png"   height="55px" width="220px" style="float:left">
+      
+        <div class="container">
+                 
+                    <a href="logout.php" target="_blank">Logout</a>
+                    <a href="PatientsRecords.html" target="fname1">online storage</a>
+                    <a href="DoctorsProfile.html" target="fname1">Doctor Profile</a>
+                    <div class="dropdown">
+                          <button class="dropbtn">Health Tips</button>
+                           <div class="dropdown-content">
+                                  <a href="#" target="fname1">Medicine tips</a>
+                                   <a href="#" target="fname1">Health tips</a>
+                           </div>
+                   </div> 
+                     
+                     <a href="HealthQueries.html" target="fname1">Health Queries</a>
+                  
+                     <a href="doctorappointment.html" target="fname1">Doctor's Appointment</a>
+                     <a href="home.html" target="fname1">Home</a>
+                   
+         </div>
+</body>
+</html>
+

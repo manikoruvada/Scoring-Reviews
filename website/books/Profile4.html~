@@ -1,0 +1,53 @@
+<html>
+<head>
+		 <style>
+		       table{
+				   border-collapse:collapse;
+				    
+					  height: 400px;
+					  width:500px;
+				  }
+				  th,td{					
+					  font-size:20px;
+				  }
+				  th{
+					  color:brown;
+				  }
+				  td{
+					  color:navy;
+				  }
+		 </style>
+     </head>
+     <body>
+            <table  align="center">
+                  <tr>
+                       <th>First Name</th>
+                       <td>Gopal Krishna</td>
+                  </tr>
+                  <tr>
+                         <th>Last  Name</th>
+                         <td>Garika</td>
+                  </tr>
+                  <tr>
+                           <th>Gender</th>
+                           <td>male</td>
+                  </tr>
+                  <tr>
+                           <th>Qualification</th>
+                           <td>MD-Cardiology,FCSI,</td>
+                  </tr>
+                  <tr>
+                          <th>Area Specialization</th>
+                          <td>Cardiologist</td>
+                  </tr>
+                  <tr>
+                           <th>Year of Expierience</th>
+                           <td>10 years</td>
+                  </tr> 
+                  <tr>
+                          <th>Availability</th>
+                          <td>4pm to 10pm</td>
+                  </tr>
+              </table>
+       </body>
+  </html>

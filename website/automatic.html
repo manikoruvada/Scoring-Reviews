@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+   
+    <style>
+          .mySlides {display:none;}
+   </style>
+<body>
+          <div class="w3-content w3-section" style="max-width:500px">
+			     <img class="mySlides" src="assets/index1.jpg" style="height=90%;width=50%;">
+			      <img class="mySlides" src="assets/index6.png" style="height=90%;width=50%">
+                 <img class="mySlides" src="assets/index3.png" style="height=90%;width=50%">
+                 <img class="mySlides" src="assets/index4.jpg" style="height=90%;width=50%">
+                    <img class="mySlides" src="assets/index5.png" style="height=90%;width=50%;">
+                 <img class="mySlides" src="assets/index7.jpg" style="height=90%;width=50%">
+                 
+         </div>
+
+<script>
+var myIndex = 0;
+carousel();
+
+function carousel() {
+    var i;
+    var x = document.getElementsByClassName("mySlides");
+    for (i = 0; i < x.length; i++) {
+       x[i].style.display = "none";  
+    }
+    myIndex++;
+    if (myIndex > x.length) {myIndex = 1}    
+    x[myIndex-1].style.display = "block";  
+    setTimeout(carousel, 2000); // Change image every 2 seconds
+}
+</script>
+
+</body>
+</html>

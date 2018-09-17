@@ -1,0 +1,190 @@
+<!DOCTYPE HTML>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="fruit.css">
+	</head>
+<body>
+<div id="header">Fruits</div>
+<div id="section">
+<p id="name"><img src="index.jpg">Apple </p>
+<p id="nut"> Nutritional value (1 medium):</p> 75 calories, 3 g fibre
+ <p id="dis">Disease-fighting factor:</p> Apples contain antioxidants called flavonoids, which may help lower the chance of developing diabetes and asthma. Apples are also a natural
+ mouth freshener and clean your teeth with each crunchy bite.
+ <p id="did">Did you know?</p> An apple's flavour and aroma comes from fragrance cells in apple skin, so for maximum flavour, don't peel your apple. Plus, the vitamins lie just
+ beneath the skin.
+
+<p id="name"><img src="avocado.jpg">Avocado</p>
+ <p id="nut">Nutritional value ( ½ avocado):</p> 114 calories, 4.5 g fibre, source of vitamin E and folate
+<p id="dis"> Disease-fighting factor</p>Avocados contain healthy monounsaturated fats that can help lower cholesterol levels when eaten instead of harmful saturated fats.
+ For a heart-healthy boost, replace butter with avocado on your favourite sandwich.  
+ <p id="did">Did you know?</p> Babies love avocados. Their soft, creamy texture makes them easy to eat, and their high fat content helps with normal infant growth and development.
+
+<p id="name"><img src="banana.jpg">Banana</p>
+ <p id="nut">Nutritional value (1 medium):</p> 105 calories, 3 g fibre, source of vitamin B6, potassium and folate
+<p id="dis">Disease-fighting factor:</p> With 422 milligrams of potassium per banana, these sweet delights have more potassium than most fruit and may help lower blood 
+pressure levels.
+<p id="did">Did you know? </p>People with rubber latex allergies may also be allergic to bananas since the two come from similar trees and share a common protein.
+
+<p id="name"><img src="black.jpg">Blackberry</p>
+ <p id="nut">Nutritional value (1/2 cup/125 mL):</p> 31 calories, 4 g fibre, rich in antioxidants
+ <p id="dis">Disease-fighting factor:</p> Blackberries get their deep purple colour from the powerful antioxidant anthocyanin, which may help reduce the risk of stroke and cancer.
+ Studies show that blackberry extract may help stop the growth of lung cancer cells.
+<p id="did">Did you know?</p> The ancient Greeks called blackberries "gout-berries" and used them to treat gout-related symptoms.
+
+
+<p id="name"><img src="blueberry.jpg">Blueberry</p>
+ <p id="nut">Nutritional value (1/2 cup/125 mL):</p> 41 calories, 1.5 g fibre, rich in antioxidants
+ <p id="dis">Disease-fighting factor:</p> Blueberries rank No. 1 in antioxidant activity when compared to 60 other fresh fruits and vegetables. Blueberries may help lower
+ the risk of developing age-related diseases such as Parkinson's and Alzheimer's.
+ <p id="did">"Did you know? </p>Blueberries freeze very well. Here's how: Rinse, then let berries dry in a single layer on towels. Freeze in a single layer on rimmed baking sheets.
+ Seal in freezer-safe containers for up to one year. Use them straight from the freezer in your morning cereal, blend them into a smoothie or mix into pancake or
+ muffin batter. (You can also buy frozen blueberries year-round.)
+
+The serving size listed for each fruit in our glossary counts as one serving in Canada's Food Guide. The number of servings you need each day depends on your age
+ and gender. For example, women between the ages of 19 and 50 need seven to eight servings of fruit and vegetables each day (three fruit and four vegetable servings
+ would suffice). To determine the correct number of vegetable and fruit servings for you, visit the Health Canada website (www.hc-sc.gc.ca) at and search for 
+"food guide."
+
+<p id="name"><img src="canta.jpg">Cantaloupe</p>
+ <p id="nut">Nutritional value (1/2 cup/125 mL):</p> 25 calories, less than 1 g fibre, source of vitamin A, folate and potassium
+ <p id="dis">Disease-fighting factor:</p> Cantaloupe is high in the antioxidant beta-carotene, which may help reduce the risk of developing cataracts. Cantaloupe is a perfect
+ diet food since it has about half the calories of most other fruits. 
+ <p id="did">Did you know? </p>Since bacteria can grow on the outside rind, it is important to wash cantaloupe before cutting into it. 
+
+<p id="name"><img src="cherry.jpg">Cherry</p>
+<p id="nut"> Nutritional value (1/2 cup/125 mL)</p> 46 calories, 1.5 g fibre, rich in antioxidants
+ <p id="dis">Disease-fighting factor:</p> Sour cherries contain more of the potent antioxidant anthocyanin than any other fruit. Anthocyanin may help reduce inflammation and 
+ease the pain of arthritis and gout.
+<p id="did">Did you know?</p> Sour cherries, commonly used in pie and jam, have more vitamin C than sweet cherries do, but much of it is lost when they are heated.
+
+<p id="name"><img src="cranberry.jpg">Cranberry</p>
+ <p id="nut">Nutritional value (1/2 cup/125 mL):</p> 25 calories, 2.5 g fibre, rich in antioxidants
+ <p id="dis">Disease-fighting factor:</p> Cranberries are antibacterial and studies show that they can help treat and prevent urinary tract infections. Recent research has also
+ linked cranberries to the prevention of kidney stones and ulcers.
+ <p id="did">Did you know?</p> Unsweetened cranberry juice makes an excellent mouthwash – studies show it can help kill bacteria and fight cavities.
+
+<p id="name"><img src="fig.jpg">Fig (dried)</p>
+ <p if="nut">Nutritional value (2 dried figs):</p> 42 calories, 1.5 g fibre, source of potassium, calcium and iron
+ <p id="dis">Disease-fighting factor:</p> High in fibre, figs may help reduce the risk of heart disease.
+ <p id="did">Did you know?</p>  figs make an excellent substitute for fat (like butter or oil) in baked goods. Simply purée 1 cup (250 mL) of dried figs with 1/4 cup
+ (50 mL) of water, then replace half of the fat called for in the recipe with an equal amount of the fig mixture.
+
+<p id="name"><img src="goji.jpg">Goji berry</p>
+<p id="nut">Nutritional value (1/2 cup/125 mL):</p> 90 calories, 2.5 g fibre, source of vitamin A,
+rich in antioxidants
+<p id="dis"> Disease-fighting factor:</p> Goji berries are a nutrient powerhouse, containing six vitamins, 21 minerals and a slew of antioxidants. They have been linked to
+ the prevention of diabetes and cancer, but more research is needed to understand their effects.
+ <p id="did">Did you know? </p>Dried goji berries, which look like dried cranberries, can be found in most health food and bulk stores.
+ Health Canada has warned people using the prescription drug Warfarin to avoid goji berries, because they can alter the drug’s effectiveness.
+
+<p id="name"><img src="frozen.jpg">Frozen fruit</p>
+If your favourite fresh fruit is only available for six weeks of the year, head to the frozen food aisle. Grocery store freezers house a variety of affordable
+ frozen fruit, ranging from cubed mango to woodland blueberries to tropical fruit salad.
+
+Not only is frozen fruit convenient, but it's also equally nutritious  if not more so  than its fresh counterpart. Fresh fruit starts to lose nutrients as 
+soon as it's picked. The time between harvest and consumption can be long enough for significant nutrient losses to occur. Frozen fruit, however, is picked
+ and frozen immediately, retaining much of the nutrient value. Plus, since frozen fruit is already washed, peeled and cut, it's a breeze to use. It can be 
+thawed at room temperature or defrosted in the microwave. Once defrosted, eat it as you would fresh fruit, or use it atop cereal, mixed in yogurt or blended
+ into smoothies.
+
+<p id="name"><img src="grape.jpg">Grape</p>
+<p id="nut">Nutritional value (1/2 cup/ 125 mL):</p> 53 calories, less than 1 g fibre, source of manganese
+<p id="dis">Disease-fighting factor:</p> Grapes contain resveratrol, an antioxidant that may help prevent heart disease by reducing blood pressure levels and lowering the
+ risk of blood clots. Resveratrol may also help stop the spread of breast, stomach and colon cancer cells.
+<p id="did"> Did you know?</p><br/><p> You can freeze red and green grapes and use them as colourful ice cubes in your favourite drinks. They add a special touch to sparkling water
+ or Champagne.</p>
+
+<p id="name"><img src="grape_pink.jpg">Grapefruit (pink)</p>
+<p id="nut"> Nutritional value (1/2 grapefruit):</p> 52 calories, 2 g fibre, source of vitamin A
+<p id="dis"> Disease-fighting factor: </p>Pink grapefruit contains lycopene and flavonoids, which may help protect against some types of cancer. Grapefruit also boasts an 
+ample supply of pectin, a soluble fibre that may help lower cholesterol levels.
+<p id="did"> Did you know?</p> Grapefruit can heighten the effect of certain drugs, including cholesterol-lowering statins. Check with your pharmacist to see if grapefruit
+ may interfere with any of your medications. 
+
+<p id="name"><img src="kiwi.jpg">Kiwifruit</p>
+<p id="nut"> Nutritional value (1 large): </p>56 calories, 3 g fibre, source of vitamins C and E, and of magnesium and potassium
+<p id="dis"> Disease-fighting factor:</p> With more vitamin C than oranges, kiwis can help in the development and maintenance of bones, cartilage, teeth and gums.
+ They can also help lower blood triglyceride levels (high triglycerides increase the risk of heart disease).
+<p id="did"> Did you know?</p> Most people remove the fuzzy skin, but kiwis can actually be eaten whole – skin and all.
+
+<p id="name"><img src="mango.jpg">Mango</p>
+<p id="nut"> Nutritional value (1/2 medium):</p> 54 calories, 1.5 g fibre, source of vitamins A and E
+<p id="dis"> Disease-fighting factor: </p>Mangoes are high in the antioxidants lutein and zeaxanthin, which may help protect vision and reduce the risk of age-related 
+macular degeneration (the leading cause of blindness in adults).
+<p id="did"> Did you know?</p> Mangoes can be enjoyed ripe as a sweet, juicy dessert choice or unripe as a sour, crunchy addition to chutney and salads.
+
+<p id="name"><img src="orange.jpg">Orange</p>
+<p id="nut"> Nutritional value (1 medium):</p> 62 calories, 3 g fibre, source of vitamin C, folate and potassium
+<p id="dis"> Disease-fighting factor:</p> Oranges are a good source of folate, an important vitamin for pregnant women that can help prevent neural tube defects in their
+ infants. They also contain a phytochemical called hesperidin, which may lower triglyceride and blood cholesterol levels.
+<p id="did"> Did you know?</p> The edible white part of the orange rind has nearly the same amount of vitamin C as the flesh, so eat that part too!
+
+<p id="name"><img src="papaya.jpg">Papaya</p>
+<p id="nut"> Nutritional value (1/2 medium): </p>59 calories, 3 g fibre, source of folate, vitamins A and C
+<p id="dis"> Disease-fighting factor:</p> Papayas contain papain, an enzyme that aids digestion. Plus, their high vitamin A content aids in maintaining the health of the skin.
+<p id="did">Did you know? </p>The black seeds inside the papaya are edible and have a sharp, spicy flavour. Try blending them into salad dressing as a substitute for black
+ pepper.
+
+<p id="name"><img src="peach.jpg">Peach</p>
+<p id="nut"> Nutritional value (1 medium): </p>58 calories, 2 g fibre, source of vitamin A 
+<p id="dis"> Disease-fighting factor:</p> High in vitamin A, peaches help regulate the immune system and can help fight off infections.
+<p id="did"> Did you know?</p> Peaches do not get any sweeter once they have been picked, so avoid buying underripe peaches.
+
+<p id="name"><img src="pear.jpg">Pear</p>
+<p id="nut"> Nutritional value (1 medium):</p> 96 calories, 5 g fibre 
+<p id="dis"> Disease-fighting factor:</p> Much of the fibre found in pears is soluble, which can help prevent constipation. Soluble fibre may also help reduce blood cholesterol 
+levels and prevent heart disease. 
+<p id="did"> Did you know? </p>Unlike most other fruits, pears don't ripen well on the tree. Instead, pears are harvested when mature and are allowed to finish ripening under
+ controlled conditions.
+
+<p id="name"><img src="pinapple.jpg">Pineapple</p>
+<p id="nut"> Nutritional value (1/2 cup/125 mL): </p>40 calories, 1 g fibre
+<p id="dis"> Disease-fighting factor:</p> Pineapple contains a natural enzyme called bromelain, which breaks down protein and helps aid digestion. Bromelain may also help
+ prevent blood clots, inhibit growth of cancer cells and speed wound healing.
+<p id="did">Did you know?</p> Since bromelain breaks down protein, pineapple juice makes an excellent marinade and tenderizer for meat.
+
+<p id="name"><img src="pomegranate.jpg">Pomegranate</p>
+<p id="nut">Nutritional value (1/2 fruit): </p>53 calories, less than 1 g fibre, source of vitamin A and potassium
+<p id="dis"> Disease-fighting factor:</p> Pomegranates contain antioxidant tannins, which may protect the heart. Studies show that daily consumption of pomegranate juice
+ may promote normal blood pressure levels and reduce the risk of heart attacks.
+<p id="did">Did you know? </p>Pomegranates contain glistening, jewel-like seeds called arils that can be pressed into juice. One medium pomegranate yields about 1/2 cup
+ (125 mL) of juice.
+
+<p id="name"><img src="prune.jpg">Prune</p>
+<p id="nut"> Nutritional value (3 prunes):</p> 60 calories, 2 g fibre, source of vitamin A
+<p id="dis"> Disease-fighting factor:</p> Prunes are a source of the mineral boron, which may help prevent osteoporosis. Prunes also impart a mild laxative effect due to
+ their high content of a natural sugar called sorbitol. 
+<p id="did">Did you know?</p> Marketers in the United States are trying to legally rename prunes "dried plums" to appeal to a younger market.
+
+<p id="name"><img src="raspberry.jpg">Raspberry</p>
+<p id="name"> Nutritional value (1/2 cup/125 mL):</p> 32 calories, 4 g fibre, source of folate and magnesium
+<p id="dis">Disease-fighting factor:</p> Raspberries are rich in ellagic acid, an antioxidant that may help prevent cervical cancer. Promising studies in animals have led
+ researchers to believe that raspberries may also help treat esophageal and colon cancer.
+<p id="did">Did you know?</p> Raspberries are so perishable that only three per cent of Canada's raspberry crop is sold fresh. The remaining berries are used to make jam,
+ baked goods and other delicacies.
+
+<p id="name"><img src="strawberry.jpg">Strawberry</p>
+<p id="nut">Nutritional value (1/2 cup/125 mL):</p> 23 calories, 1.5 g fibre, source of vitamin C
+<p id="dis"> Disease-fighting factor: </p>Strawberries are rich in several antioxidants that have
+anti-inflammatory properties, including helping to prevent atherosclerosis (hardened arteries) and to suppress the progression of cancerous tumours.
+<p id="did"> Did you know? </p>The flavour and colour of strawberries is enhanced by balsamic vinegar. For a fabulous dessert, drizzle balsamic vinegar over ripe strawberries
+ and serve with vanilla ice cream.
+
+<p id="name"><img src="tomato.jpg">Tomato</p>
+<p id="nut"> Nutritional value (1 medium):</p> 22 calories, 1.5 g fibre, source of vitamin A, folate and potassium
+<p id="dis"> Disease-fighting factor:</p> Tomatoes are nature's best source of lycopene, a potent antioxidant that may help reduce cholesterol levels and protect against
+ advanced-stage prostate cancer.
+<p id="did"> Did you know? </p>Tomatoes cooked with a touch of oil provide more lycopene than raw tomatoes, so a rich tomato sauce made with olive oil is a healthy choice.
+
+<p id="name"><img src="watermelon.jpg">Watermelon</p>
+<p id="nut"> Nutritional value (1/2 cup/125 mL):</p> 23 calories, less than 1 g fibre, source of vitamin A
+<p id="dis">Disease-fighting factor:</p> Watermelon is 92 per cent water, making it aptly named. It's a great addition to any weight-loss diet because it is low in calories 
+and satisfies the sweet tooth.
+</p> 
+ </div>
+<br/>
+<div id="footer">
+<center>copyright &#169; Health+.com</center>
+</div> 
+</body>
+</html>

@@ -1,0 +1,22 @@
+h1{
+      background-color:black;
+      color:white;
+      font-size:25px;
+      }
+table{
+					
+					padding:15px;
+				}
+				body{
+					text-align:center;
+				}
+				table{
+					border-collapse:collapse;
+				    background-color:pink;
+				    width:25%;
+				}
+p{
+	color:green;
+	font-size:20px;
+	}
+	

@@ -1,0 +1,15 @@
+ body{
+				text-align:center;
+			}
+			table,th,td{
+				border:1px solid black;
+			}
+			th,td{
+				height:25px;
+			}
+			table{
+				width:20%;
+				
+				border-collapse:collapse;
+				background-color:pink;
+			}

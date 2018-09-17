@@ -1,0 +1,122 @@
+			  
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.container {
+       overflow: hidden;
+       background-color: #000000;
+       font-family: Arial;
+      }
+
+.container a {
+    float: right;
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    padding: 20px 24px;
+    text-decoration: none;
+}
+
+.dropdown {
+    float: right;
+    overflow: hidden;
+}
+
+.dropdown .dropbtn {
+    font-size: 20px;    
+    border: none;
+    outline: none;
+    color: white;
+    padding: 20px 24px;
+    background-color: inherit;
+    font-weight:bold;
+}
+
+.container a:hover, .dropdown:hover .dropbtn {
+    background-color: green;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: white;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    float: none;
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+    text-align: left;
+}
+
+.dropdown-content a:hover {
+    background-color: aqua;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+body{
+				background-color:black;
+				text-align:center;
+				color:white;
+				font-size:20px;
+				font-weight:bold;
+				
+				
+			}
+			#ab{
+			background-image:url("assets/1.jpg");
+			background-repeat:no;
+					background-size:cover;
+				}
+
+#section{
+        margin-top:19px;
+       
+         height:100%;
+         width:100%;
+         }
+		
+</style>
+</head>
+<body>
+        <img src="assets/index.png"   height="55px" width="220px" style="float:left">
+      
+        <div class="container">
+                 
+                 
+                    <a href="logout.php" target="_blank">Logout</a>
+                    <a href="furniture/furniture.html" target="fname1">Furniture</a>
+                    <div class="dropdown">
+                          <button class="dropbtn">Dreeses</button>
+                           <div class="dropdown-content">
+                                  <a href="men/men.html" target="fname1">For Mens</a>
+                                   <a href="women/women.html" target="fname1"><b>For Womes</b></a>
+                                   <a href="children/children.html" target="fname1">For children</a>
+                           </div>
+                   </div> 
+                  
+                     <a href="ornaments/ornaments.html" target="fname1">Ornaments</a>
+                     <a href="electronic/electronic.html" target="fname1">Electronic Devices</a>
+                     <a href="books/books.html" target="fname1">Books</a>
+                     <a href="home.html" target="fname1">Home</a>
+                   
+         </div>
+         <div id="section">
+			      
+
+                      <iframe  src="home.html" id="ab" name="fname1" height="650px" width="100%"  framespacing="0"></iframe>
+         </div>
+         <div id="footer">
+                   <p >&copycopyright Scoring Reviews Using Sentiment Analysis.com .All rights reserved.</p>
+         </div>
+</body>
+</html>

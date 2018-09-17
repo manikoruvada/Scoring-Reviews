@@ -1,0 +1,84 @@
+<!Doctype html>
+<html>
+	<head>
+		 <link rel="stylesheet" type="text/css" href="Registration.css">
+		 <script src="validate.js"></script>
+	 </head>
+         <body>
+			 <center>
+				 <fieldset>
+					 <legend>registration form</legend>
+                  <form name="myform" action="userregister_values.php" method="post" onsubmit="return registerValidate()">
+                         <table  cellpadding="10">
+							 <tr>
+                                  <th>first Name</th>
+                                  <td ><input type="text" name="fname" placeholder="enter name"  id="fname"></td>
+                                  <td><span id="ferror"></span></td>
+							</tr>
+							<tr>
+                                  <th>Last name </th>
+                                  <td ><input type="text" name="lname" placeholder="enter name" id="lname">  </td>
+                                  <td><span id="lerror"></span></td>
+							
+							</tr>		     
+                            <tr>   
+                                  <th>Age</th>
+                                  <td > <input type="number"   name="year"  min="1" max="70"></td>
+                             </tr>         
+                             <tr>
+                                  <th >Gender</th>
+                                  <td >
+                                         <input type="radio" name="gender" value="female">female
+                                         <input type="radio" name="gender" value="male">male
+                                  </td>
+                             </tr>     
+                              <tr>
+								  <th>User Name</th>
+                                  <td ><input type="text" name="uname" placeholder="enter name" id="uname">  </td>
+                                  <td><span id="uerror"></span></td>
+							<tr>
+                           <tr>
+                      		      <th>Contact number</th>
+                      		      <td>
+                      		            <input type="tel" name="phonenumber" placeholder="mobile no" id="phonenumber">
+                      		      </td>
+                      		      <td><span id="phnerror"></span></td>
+                      	   </tr>
+							 <tr>
+
+                      		      <th>Password</th>
+                      		      <td>
+                      		            <input type="password"  name="password" placeholder="password" id="password">
+                      		      </td>
+                      		      <td><span id="perror"></span></td>
+                      		 </tr>	  
+                      		 <tr>
+                      		       <th> Security Question</th>
+                      		       <td><select name="seq">
+									   <option name="">select</option>
+									   <option name="favourite_color">favourite color</option>
+									   <option name="Nick_Name">Nick Name</option>
+									   <option name="Hallticket_Number">Hallticket Number</option>
+									   <option name="favourite_book">favourite book</option>
+                      		       </select>
+                      		       </td>
+                      		 </tr>	
+                      		 <tr>
+								 <th>Security Answer</th>
+								 <td><textarea rows="5" cols="10" name="secans"></textarea></td>
+                      		 </tr>		    
+                             <tr >
+                                  <td colspan="2" >
+                                          <input type="submit" name="register" value="register">
+                                  </td>
+                             </tr>                        		
+                    </table>
+             </form>
+           </fieldset>
+         </center>
+      </body>
+</html>
+ 
+
+                      		
+ 
